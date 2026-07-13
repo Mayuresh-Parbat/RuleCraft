@@ -268,7 +268,7 @@ Open a Pull Request
 
 ## Mayuresh
 
-Backend Developer | Java Enthusiast | System Design Learner
+**Backend Developer | Java Enthusiast**
 
 ---
 
