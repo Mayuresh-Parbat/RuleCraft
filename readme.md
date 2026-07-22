@@ -266,18 +266,4 @@ Open a Pull Request
 
 # 👨‍💻 Author
 
-## Mayuresh
-
-**Backend Developer | Java Enthusiast**
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
-
-<p align="center">
-  Built with ❤️ using Java & Spring Boot
-</p>
+**Mayuresh Parbat**
