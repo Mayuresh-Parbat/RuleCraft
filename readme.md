@@ -247,21 +247,7 @@ This project helps strengthen practical knowledge in:
 - API Engineering
 - Database Management
 - Production-Level Backend Structuring
-
----
-
-# 🤝 Contribution
-
-Contributions, ideas, and improvements are welcome.
-
-```bash
-Fork the repository
-Create your feature branch
-Commit your changes
-Push to the branch
-Open a Pull Request
-```
-
+- 
 ---
 
 # 👨‍💻 Author
