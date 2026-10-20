@@ -230,9 +230,7 @@ Final Evaluation Result
 - Rule Analytics Dashboard
 - Audit Logs & Monitoring
 - Docker & Kubernetes Deployment
-- Authentication & Authorization
-- AI-Assisted Rule Suggestions
-
+  
 ---
 
 # 📈 Learning Outcomes
