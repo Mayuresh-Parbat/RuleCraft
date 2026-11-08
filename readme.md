@@ -228,8 +228,7 @@ Final Evaluation Result
 - Real-Time Event Streaming
 - Distributed Rule Processing
 - Rule Analytics Dashboard
-- Audit Logs & Monitoring
-- Docker & Kubernetes Deployment
+
   
 ---
 
