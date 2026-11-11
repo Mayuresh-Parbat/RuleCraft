@@ -227,7 +227,6 @@ Final Evaluation Result
 - Workflow Engine Integration
 - Real-Time Event Streaming
 - Distributed Rule Processing
-- Rule Analytics Dashboard
 
   
 ---
@@ -244,7 +243,6 @@ This project helps strengthen practical knowledge in:
 - API Engineering
 - Database Management
 - Production-Level Backend Structuring
-- 
 ---
 
 # 👨‍💻 Author
